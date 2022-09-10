@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * * main - print if the number is postive, zero, or negative
+ * * main - print numbers 0 to 9
  * *
  * * Description: using the main function
- * * this program prints "Programming is positive, zero, or negative
+ * * this program prints "0,1,2,3,4,5,6,7,8,9"
  * * Return: 0
  */
 int main()
@@ -15,7 +15,7 @@ int main()
 
 	for (n = 0; n <= '9'; n++)
 	{
-		printf ("%i", n);
+		printf ("%i"\n, n);
 	}
 	return (0);
 }

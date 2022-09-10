@@ -18,6 +18,6 @@ int main(void)
 	  /* your code goes there */
 	int ch;
 	for(ch = 'a'; ch <= 'z'; ch++)
-		putchar(ch)
-	return (0);
+		putchar(ch;)
+	return(0);
 }

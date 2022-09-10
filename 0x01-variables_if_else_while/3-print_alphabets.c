@@ -20,9 +20,10 @@ int main(void)
 	{
 		putchar (n);
 	}
-	for (m = 'A'; m<= 'Z'; m++)
+	for (m = 'A'; m <= 'Z'; m++)
 	{
 		putchar (m);
+	}
 	putchar('\n');
 	return (0);
 }

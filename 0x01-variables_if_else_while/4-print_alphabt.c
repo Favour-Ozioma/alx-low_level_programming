@@ -15,14 +15,14 @@ int main(void)
 	int e;
 	int q;
 
-	e= 'e';
-	q= 'q';
+	e = 'e';
+	q = 'q';
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	  /* your code goes there */
 	for (n = 'a'; n <= 'z'; n++)
 	{
-		if (n!=e && n!=q)
+		if (n != e && n != q)
 		{
 		putchar (n);
 		}

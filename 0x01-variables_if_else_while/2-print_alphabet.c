@@ -17,6 +17,6 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	  /* your code goes there */
 	for (n = 'a'; n <= 'z'; n++)
-		putchar (\n';
+		putchar ('\n');
 	return (0);
 }

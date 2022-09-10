@@ -15,7 +15,7 @@ int main()
 
 	for (n = 0; n <= '9'; n++)
 	{
-		printf ("%i\n", n);
+		printf ("%d\n", n);
 	}
 	return (0);
 }

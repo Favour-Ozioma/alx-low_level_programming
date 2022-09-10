@@ -16,8 +16,8 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	  /* your code goes there */
-	int ch;
-	for(ch = 'a'; ch <= 'z'; ch++)
-		putchar(ch);
+	int n;
+	for(n = 'a'; n <= 'z'; n++)
+		putchar(n);
 	return(0);
 }

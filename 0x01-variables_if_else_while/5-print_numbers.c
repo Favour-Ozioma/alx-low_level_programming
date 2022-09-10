@@ -9,11 +9,11 @@
  * * this program prints "0,1,2,3,4,5,6,7,8,9"
  * * Return: 0
  */
-int main()
+int main(void)
 {
 	int n;
 
-	for (n = 0; n <= '9'; n++)
+	for (n = 0; n <= 9; n++)
 	{
 		printf ("%d", n);
 		printf ("\n");

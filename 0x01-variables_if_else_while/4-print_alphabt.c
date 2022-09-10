@@ -22,8 +22,10 @@ int main(void)
 	  /* your code goes there */
 	for (n = 'a'; n <= 'z'; n++)
 	{
-		if (n!=e && n!=q);
+		if (n!=e && n!=q)
+		{
 		putchar (n);
+		}
 	}
 	putchar('\n');
 	return (0);

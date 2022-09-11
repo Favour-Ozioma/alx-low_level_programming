@@ -15,7 +15,7 @@ int main(void)
 			
 	for (n = 48; n < 102; n++)
 	{
-		if (!(n > 58) && !(n < 96))
+		if ((n <= 58) && (n >= 96))
 		{
 			putchar (n);
 		}

@@ -1,7 +1,7 @@
 /*
  *
  * File: 9-print_comb.c
- * Auth: Brennan D Baraban
+ * Auth: Favour D Ozioma
  */
 
 #include <stdio.h>

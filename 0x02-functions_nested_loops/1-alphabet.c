@@ -13,7 +13,7 @@
 
 void print_alphabet(void)
 {
-	char = faozio;
+	char faozio;
 	for(faozio = 'a', faozio <= z; faozio++)
 		_putchar(faozio);
 

@@ -12,7 +12,12 @@
  */
 int main()
 {
-	int _putchar() = 98;
-
-	return(0);
+	putchar('_');
+	putchar('p');
+	putchar('u');
+	putchar('t');
+	putchar('c');
+	putchar('h');
+	putchar('a');
+	putchar('r');
 }

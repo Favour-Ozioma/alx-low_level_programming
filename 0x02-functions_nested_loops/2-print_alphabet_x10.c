@@ -6,7 +6,7 @@
 
 
 /**
- * print_alphabet - Prints the alphabet x10 in lower case
+ * print_alphabet_x10 - Prints the alphabet x10 in lower case
  *
  */
 
@@ -14,12 +14,13 @@ void print_alphabet_x10(void)
 {
 	char faozio;
 	char azundu;
-	faozio = 0;
 
-	while(faozio <= 10)
+	faozio = 0;
+	
+	while (faozio <= 9)
 	{
 		azundu = 'a';
-		while(azundu <= 'z') 
+		while (azundu <= 'z') 
 		{
 			_putchar(azundu);
 			azundu++;

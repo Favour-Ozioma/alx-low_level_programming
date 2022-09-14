@@ -6,7 +6,7 @@
 
 
 /**
- * int _abs - Computes the absolute value of an integer
+ * _abs - Computes the absolute value of an integer
  *
  * @c: The character to be checked.
  *

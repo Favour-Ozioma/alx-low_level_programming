@@ -22,7 +22,7 @@ void print_alphabet(void)
 		while(azundu <= 'z') 
 		{
 			_putchar('\n');
-			azundu +++;
+			azundu++;
 		}
 		faozio++;
 		_putchar(faozio);

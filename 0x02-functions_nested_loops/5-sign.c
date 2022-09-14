@@ -10,13 +10,13 @@
  *
  * @n: The character to be checked.
  *
- * Return: 1 if character is positive, 0 if character is zero and -1 when negative.
+ * Return: 1 if character is +ve, 0 if character is zero and -1 when -ve.
  */
 
 int print_sign(int n)
 {
 	if (n > 0)
-	{	
+	{
 		_putchar('+');
 		return (1);
 	}
@@ -25,7 +25,7 @@ int print_sign(int n)
 		_putchar('0');
 		return (0);
 	}
-	else 
+	else
 	{
 		_putchar('-');
 		return (-1);

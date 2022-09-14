@@ -10,7 +10,7 @@
  *
  */
 
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
 	char faozio;
 	char azundu;
@@ -21,11 +21,11 @@ void print_alphabet(void)
 		azundu = 'a';
 		while(azundu <= 'z') 
 		{
-			_putchar('\n');
+			_putchar(azundu);
 			azundu++;
 		}
 		faozio++;
-		_putchar(faozio);
+		_putchar('\n');
 	}
 
 }

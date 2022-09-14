@@ -21,11 +21,11 @@ void print_alphabet(void)
 		azundu = 'a';
 		while(azundu <= 'z') 
 		{
+			_putchar('\n');
 			azundu +++;
 		}
 		faozio++;
 		_putchar(faozio);
 	}
-	_putchar('\n');
 
 }

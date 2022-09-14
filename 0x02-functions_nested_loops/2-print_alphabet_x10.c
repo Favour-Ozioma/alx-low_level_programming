@@ -20,7 +20,7 @@ void print_alphabet_x10(void)
 	while (faozio <= 9)
 	{
 		azundu = 'a';
-		while (azundu <= 'z') 
+		while (azundu <= 'z')
 		{
 			_putchar(azundu);
 			azundu++;

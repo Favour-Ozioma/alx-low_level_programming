@@ -6,7 +6,7 @@
 
 
 /**
- * print_last_digit - Prints the last digit of a number.
+ * print_last_digit - Prints the last digit of a number
  *
  * @n: The number in question.
  * Return: The last digit of the number.

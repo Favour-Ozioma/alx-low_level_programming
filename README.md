@@ -1,2 +1,1 @@
-# alx-low_level_programming
-c-programming DSA practice
+# c-programming DSA practice
